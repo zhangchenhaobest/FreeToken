@@ -1,3 +1,29 @@
+# FreeToken
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把数据中心级模型服务带到桌面，在本地高效运行超大模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlashML-org/FreeToken/main/assets/freetoken-logo-dark.svg">
